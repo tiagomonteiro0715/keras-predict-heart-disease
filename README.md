@@ -2,4 +2,6 @@
 
 
 
-pip install pydot` and install graphviz
+pip install pydot and install graphviz
+
+download from kaggle the actualy the dataset
