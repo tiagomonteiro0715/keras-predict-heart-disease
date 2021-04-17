@@ -2,11 +2,9 @@
 
 ![brain scan image](https://www.naturalhealth365.com/wp-content/uploads/2016/08/heart-disease.jpg)
 
-pip install pydot and install graphviz
+-----
 
-download from kaggle the actualy the dataset
-
-dataset: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
+Dataset used: https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 
 -----
 
