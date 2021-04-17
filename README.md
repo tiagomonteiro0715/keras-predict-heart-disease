@@ -1,6 +1,6 @@
 # keras-predict-heart-disease
 
-![brain scan image](https://www.naturalhealth365.com/wp-content/uploads/2016/08/heart-disease.jpg)
+![brain scan image](https://integrisok.com/-/media/blog/18-feb/heart-scan.ashx?revision=6301cde0-dece-4c1a-8f59-4dcf75cffaa3)
 
 -----
 
