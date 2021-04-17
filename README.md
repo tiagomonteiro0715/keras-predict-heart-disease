@@ -30,7 +30,7 @@ pipenv install --python 3.7.8
 Install necessary modules and activate it
 
 ```
-pipenv install tensorflow==2.4.1 matplotlib==3.3 keras==2.4
+pipenv install tensorflow==2.4.1 matplotlib==3.3 keras==2.4 pandas==1.2.4
 
 pipenv shell
 ```
