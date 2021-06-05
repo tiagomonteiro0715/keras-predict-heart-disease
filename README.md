@@ -1,5 +1,8 @@
 # keras-predict-heart-disease
 
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
+
+
 ![brain scan image](https://integrisok.com/-/media/blog/18-feb/heart-scan.ashx?revision=6301cde0-dece-4c1a-8f59-4dcf75cffaa3)
 
 -----
